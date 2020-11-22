@@ -63,3 +63,8 @@ You can also manually install Nerd Fonts of your choice.
 
 
 Suggestions about more cool tools are always welcome :)
+
+
+----
+# Troubleshooting
+![](cambiodefuente.png)
