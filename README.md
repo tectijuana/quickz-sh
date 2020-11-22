@@ -67,4 +67,4 @@ Suggestions about more cool tools are always welcome :)
 
 ----
 # Troubleshooting
-![](cambiodefuente.png)
+![](images/cambiodefuente.png)
